@@ -3,7 +3,7 @@
 2. Azis Zuhri Pratomo
 3. Habibi Fatahillah
 
-###1. Reset Configuration Router - 2
+### 1. Reset Configuration Router - 2
 Reset Konfigurasi dilakukan dengan menggunakan software Winbox 
 
 Akses fitur di bagian sidebar pada menu System -> pilih Reset Configuration -> centang No Default Configuration -> klik Reset Configuration.
@@ -11,7 +11,7 @@ Akses fitur di bagian sidebar pada menu System -> pilih Reset Configuration -> c
 Setelah itu akan otomatis melakukan rebooting pada router dan aplikasi akan melakukan reconnecting.
 
 
-###2. Config IP Local & Public
+### 2. Config IP Local & Public
 Setelah rebooting akses fitur di sidebar pada menu IP -> Addresses -> klik tombol "**+**" ->
 **ETHER 1**
  - Address = 10.252.108.18/24
